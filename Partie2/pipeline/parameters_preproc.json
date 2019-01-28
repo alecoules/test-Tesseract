@@ -1,0 +1,7 @@
+{
+"path_image": "../01_alb_id.tif", 
+"path_export": "preprocessed_img/test.png",
+"algorithm_denoise":"wavelet",
+"algorithm_binarisation":"sauvola",
+"window_size":25
+}
